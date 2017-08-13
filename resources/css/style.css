@@ -4,7 +4,7 @@
 }
 h1 {
   font-size: 50px;
-  font-weight: normal;
+  font-weight: bold;
   color: white;
   text-align: center;
 }
@@ -12,6 +12,10 @@ h1 {
   font-size: 16px;
   color: aquamarine;
   text-align: center;
+}
+.center {
+      margin: 0 auto;
+      display: block;
 }
 .ptravel {
   font-size: 21px;
